@@ -13,6 +13,22 @@
 - type: rss
   icon: "fas fa-rss"
   noblank: true
+
+- type: Telegram
+  icon: "fab fa-telegram"
+  url: "https://t.me/"
+
+- type: HackTheBox
+  icon: "fas fa-cube"
+  url:  'https://app.hackthebox.com/profile/1697674' 
+
+- type: TryHackMe
+  icon: "fas fa-cloud"
+  url:  'https://tryhackme.com/p/kikour'
+
+- type: discord
+  icon: "fab fa-discord"
+  url: 'https://discord.com/users/1215732978416877598'
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
