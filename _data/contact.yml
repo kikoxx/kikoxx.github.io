@@ -10,13 +10,9 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
-
-- type: Telegram
-  icon: "fab fa-telegram"
-  url: "https://t.me/"
+# - type: rss
+#   icon: "fas fa-rss"
+#   noblank: true
 
 - type: HackTheBox
   icon: "fas fa-cube"
