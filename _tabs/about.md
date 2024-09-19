@@ -18,7 +18,7 @@ Ps: This is not my actual name, it's just a facade of me :)"
 - **My blogs** Look forward to upcoming writeups, and blogs that may interest you! 
 - **Connect with me** You can reach out to me on my social platforms, whether you have questions, want to collaborate, or just want to chat about stuff.
 
-<h3>Learning Platforms I am working on:</h3>
+<h3>Learning platforms I am working on:</h3>
 <div style="text-align: center; display: flex; align-items: center;">
     <div style="display: inline-block; margin: 0 20px; vertical-align: middle;">
          <script src="https://tryhackme.com/badge/2882328"></script>
